@@ -1,0 +1,6 @@
+@DevOps_Lab1_HostAddress = http://localhost:5184
+
+GET {{DevOps_Lab1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
